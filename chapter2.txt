@@ -1,1 +1,1 @@
-This is my second attemp to learn more about git and github I will continue to try to learn until I master the concepts in it.
+This is my second attemp to learn more about git and github I will continue to try to learn until I master the concepts in it.Now I will edit it
